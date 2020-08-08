@@ -76,6 +76,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ### LICENSE
--A
+-GNU GENERAL PUBLIC LICENSE Version 3
 
 
