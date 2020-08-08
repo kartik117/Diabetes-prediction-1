@@ -11,7 +11,7 @@
   * [To Do](#to-do)
   * [Installation](#installation)
   * [Run](#run)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Bug / Feature Request](#bug-/-feature-request)
   * [Team](#team)
   * [License](#license)
   * [Credits](#credits)
