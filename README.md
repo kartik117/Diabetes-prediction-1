@@ -11,7 +11,7 @@
   * [To Do](#to-do)
   * [Installation](#installation)
   * [Run](#run)
-  * [Bug / Feature Request](#bug-/-feature-request)
+  * [Bug / Feature Request](#bug-feature-request)
   * [Team](#team)
   * [License](#license)
   * [Credits](#credits)
@@ -53,7 +53,7 @@ The following points were the objective of the project . If you are looking for 
 <img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/numpy.png" width=170>
 <img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/pandas.jpeg" width=170>
 
-### Bug / Feature Request
+### Bug Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/shsarv/Diabetes-prediction/issues) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/shsarv/Diabetes-prediction/issues/new/choose). Please include sample queries and their corresponding results.
@@ -64,6 +64,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - After downloading, cd into the flask directory.
 - Begin a new virtual environment with Python 3 and activate it.
 - Install the required packages using pip install -r requirements.txt
+
+### RUN
 - Execute the command: python app.py
 
 
