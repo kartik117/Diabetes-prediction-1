@@ -53,11 +53,6 @@ The following points were the objective of the project . If you are looking for 
 <img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/numpy.png" width=170>
 <img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/pandas.jpeg" width=170>
 
-### Bug Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/shsarv/Diabetes-prediction/issues) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/shsarv/Diabetes-prediction/issues/new/choose). Please include sample queries and their corresponding results.
-
 
 ### Installation 
 - Clone this repository and unzip it.
@@ -67,5 +62,18 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ### RUN
 - Execute the command: python app.py
+
+
+### Bug Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/shsarv/Diabetes-prediction/issues) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/shsarv/Diabetes-prediction/issues/new/choose). Please include sample queries and their corresponding results.
+
+### Team
+**Sarvesh Kumar Sharma**
+
+
+### LICENSE
+-A
 
 
